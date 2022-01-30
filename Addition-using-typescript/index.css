@@ -8,7 +8,7 @@ html, body {
  
 .calculator {
    background-color: darkgray;
-   width: 130px;
+   width: 100px;
    padding: 30px;
    border-radius: 20px;
    display: flex;
